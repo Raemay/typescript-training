@@ -5,5 +5,3 @@ sudo: required
 script:
   - ./exclude.sh
   - yarn test
-addons:
-chrome: stable
